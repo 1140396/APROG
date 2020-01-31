@@ -1,0 +1,3 @@
+           ac@abc.pt           Ana Costa           31/1/2005            The Best                   0                 180                   0                   0                   0                   0
+           rg@xyz.pt           Rui Gomes           11/2/1999            The Best                   0                   0                   0                   0                   0                   0
+           ls@xyz.pt       Luis Sa Silva           1/12/2000            The Best                   0                   0                   0                   0                   0                   0
